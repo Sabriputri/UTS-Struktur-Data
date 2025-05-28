@@ -13,7 +13,15 @@ pdf.set_font("Arial", size=12)
 
 isi = [
     "1. Jelaskan menurut anda apa itu struktur data!:",
-    "Struktur data merupakan metode untuk menyimpan dan mengelola data dalam sebuah program supaya lebih teratur, mudah diakses, dan efisien saat digunakan. Secara umum, struktur data terbagi menjadi beberapa jenis, salah satunya adalah struktur data linear, yaitu data yang tersusun secara berurutan seperti array, stack, queue, dan linked list. Struktur linear ini sendiri bisa bersifat statis, contohnya array yang ukurannya tetap, dan dinamis, seperti linked list yang ukurannya fleksibel. Selain itu, ada pula struktur data non-linear seperti tree dan graph yang penyusunannya tidak berurutan melainkan bercabang atau saling terhubung satu sama lain. Dengan memahami macam-macam struktur data tersebut, kita bisa membuat program yang lebih optimal dan sesuai dengan kebutuhan pengolahan data.",
+    "Struktur data merupakan metode untuk menyimpan dan mengelola data dalam sebuah program supaya ",
+    "lebih teratur, mudah diakses, dan efisien saat digunakan. Secara umum, struktur data terbagi ",
+    "menjadi beberapa jenis, salah satunya adalah struktur data linear, yaitu data yang tersusun ",
+    "secara berurutan seperti array, stack, queue, dan linked list. Struktur linear ini sendiri ",
+    "bisa bersifat statis, contohnya array yang ukurannya tetap, dan dinamis, seperti linked list ",
+    "yang ukurannya fleksibel. Selain itu, ada pula struktur data non-linear seperti tree dan graph ",
+    "yang penyusunannya tidak berurutan melainkan bercabang atau saling terhubung satu sama lain. ",
+    "Dengan memahami macam-macam struktur data tersebut, kita bisa membuat program yang lebih ",
+    "optimal dan sesuai dengan kebutuhan pengolahan data.",
     "",
 
     "2, Jelaskan menurut anda kegunaan struktur data!",

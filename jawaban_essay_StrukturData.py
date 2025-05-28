@@ -54,7 +54,8 @@ isi = [
     "- Urutan nama hari dalam satu minggu",
     "",
 
-    "6. Buatlah dengan bahasa pemograman yang anda kuasai contoh dari struktur data menurut pandangan anda!",
+    "6. Buatlah dengan bahasa pemograman yang anda kuasai contoh dari struktur.", 
+    "data menurut pandangan anda!",
     "antrean_penjualan = ['Snack', 'Minuman', 'Makanan', 'Perlengkapan mandi']",
     "antrean_penjualan += ['Makanan ringan']",
     "print('Antrean sekarang:', antrean_penjualan)",
